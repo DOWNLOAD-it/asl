@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Flask SSL keys
+cert.pem
+key.pem
+
+# Environment files
+.env
+
+# Model files (if NOT using Git LFS)
+# *.h5
+# *.keras

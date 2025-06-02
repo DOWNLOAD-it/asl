@@ -38,4 +38,6 @@ The app exposes a simple web interface and a REST API endpoint (`/predict`) that
 Install dependencies with:
 
 ```bash
-pip install tensorflow opencv-python mediapipe flask pillow numpy
+pip install tensorflow opencv-python mediapipe flask pillow numpy ```
+
+Install dependencies with:
